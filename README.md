@@ -1,6 +1,6 @@
-# BLENDED_LEARNING
 # Implementation of Decision Tree Model for Tumor Classification
-
+### Developed by: Aaron H
+### RegisterNumber:  212223040001
 ## AIM:
 To implement and evaluate a Decision Tree model to classify tumors as benign or malignant using a dataset of lab test results.
 
@@ -29,11 +29,7 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 
 ## Program:
 ```
-/*
-Program to  implement a Decision Tree model for tumor classification.
-Developed by: Aaron H
-RegisterNumber:  212223040001
-*/
+# Program to  implement a Decision Tree model for tumor classification.
 
 # Import the necessary libraries
 import pandas as pd
